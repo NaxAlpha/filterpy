@@ -21,8 +21,8 @@ from __future__ import (absolute_import, division, print_function,
 
 import math
 from math import cos, sin
-from matplotlib.patches import Ellipse
-import matplotlib.pyplot as plt
+#from matplotlib.patches import Ellipse
+#import matplotlib.pyplot as plt
 import numpy as np
 import random
 import scipy.linalg as linalg
